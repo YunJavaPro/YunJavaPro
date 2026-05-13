@@ -24,11 +24,7 @@ I'm a developer passionate about technology, specializing in Java/Kotlin and C/C
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunJavaPro&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunJavaPro&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=YunJavaPro&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" />
 </p>
 
 ---
