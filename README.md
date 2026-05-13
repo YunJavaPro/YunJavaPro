@@ -1,24 +1,42 @@
-## 你好 欢迎来到我的 GitHub 主页 <a href="https://github.com/YunJavaPro"><img align="right" src="https://komarev.com/ghpvc/?username=YunJavaPro&label=Views"></a>
+# Hi, I'm YunJavaPro
 
-### 关于我
-我是一名热爱技术的开发者，专注于 Java/Kotlin 和 C/C++ 开发。喜欢探索新技术，乐于分享和交流。
+[![Profile Views](https://komarev.com/ghpvc/?username=YunJavaPro&color=blue&style=flat-square)](https://github.com/YunJavaPro)
 
-### 技术栈
+---
 
-#### Java / Kotlin
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+## About Me
 
-#### C / C++
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I'm a developer passionate about technology, specializing in Java/Kotlin and C/C++ development. I enjoy exploring new technologies and sharing knowledge.
 
-### GitHub 统计
-![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=YunJavaPro&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+---
 
-### 联系我
+## Skills
+
+| Language | Badge |
+|----------|-------|
+| Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
+| Kotlin | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) |
+| C | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| C++ | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YunJavaPro&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunJavaPro&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Connect with Me
+
 - GitHub: [YunJavaPro](https://github.com/YunJavaPro)
 
 ---
 
-感谢您的访问！如果对我的项目感兴趣，欢迎 Star 和 Fork
+Thanks for visiting! Feel free to Star and Fork my projects if you find them interesting.
